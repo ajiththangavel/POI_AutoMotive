@@ -1,0 +1,4 @@
+<resources>
+
+    <style name="Theme.POI_AutoMotive" parent="android:Theme.Material.Light.DarkActionBar" />
+</resources>
